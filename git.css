@@ -7,3 +7,6 @@ p{
 footer{
     color: blueviolet;
 }
+p:hover{
+    color: green;
+}
